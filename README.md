@@ -1,5 +1,7 @@
 # Extended Sensitivity Adjustment
 
+<img width="1078" height="270" alt="image" src="https://github.com/user-attachments/assets/ca4e9e77-6b78-4f23-97db-ebeb636101ff" />
+
 A World of Tanks mod that lets you set precise decimal values for arcade and sniper mouse sensitivity — the same floats stored in your game `preferences.xml`.
 
 The in-game Options slider only allows coarse adjustments. This mod exposes two text inputs in the garage Mods settings menu so you can enter exact values.
